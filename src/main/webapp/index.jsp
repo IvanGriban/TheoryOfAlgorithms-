@@ -28,6 +28,10 @@
                 <input type="submit" value="Lab2">
             </form>
         </div>
-
+ <div>
+            <form action="lab2form.jsp">
+                <input type="submit" value="Lab2">
+            </form>
+        </div>
     </body>
 </html>
